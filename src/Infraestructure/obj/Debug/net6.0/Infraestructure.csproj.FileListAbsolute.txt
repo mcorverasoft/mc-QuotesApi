@@ -1,0 +1,60 @@
+C:\Users\milto\source\repos\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\milto\source\repos\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milto\source\repos\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milto\source\repos\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\milto\source\repos\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll

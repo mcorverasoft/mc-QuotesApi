@@ -1,0 +1,78 @@
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\appsettings.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.exe
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.deps.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.runtimeconfig.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Application.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Application.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.AssemblyReference.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.AssemblyInfo.cs
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.ApiQuoutes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiQuoutes.props
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiQuoutes.props
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiQuoutes.props
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\scopedcss\bundle\ApiQuoutes.styles.css
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.CopyComplete
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\refint\ApiQuoutes.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.genruntimeconfig.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\obj\Debug\net6.0\ref\ApiQuoutes.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\ApiQuoutes\bin\Debug\net6.0\Data\Quotes.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\appsettings.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Data\Quotes.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.exe
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.deps.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.runtimeconfig.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\ApiQuoutes.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Application.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Application.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.AssemblyReference.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.AssemblyInfoInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.AssemblyInfo.cs
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.CoreCompileInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.ApiQuoutes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiQuoutes.props
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiQuoutes.props
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiQuoutes.props
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\scopedcss\bundle\ApiQuoutes.styles.css
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.csproj.CopyComplete
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\refint\ApiQuoutes.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ApiQuoutes.genruntimeconfig.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\ApiQuoutes\obj\Debug\net6.0\ref\ApiQuoutes.dll

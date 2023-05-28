@@ -1,0 +1,48 @@
+C:\Users\milto\source\repos\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\milto\source\repos\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\milto\source\repos\.NET Core-projects\ApiQuotes\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\source\dotnet\QuotesApi\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\milton_corvera\Documents\QuotesApi\QuotesApi\src\Domain\obj\Debug\net6.0\ref\Domain.dll
